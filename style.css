@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/pg\ bg.jpg);
+    background-image: url(/pg-bg.jpg);
     color: white;
 }
 
